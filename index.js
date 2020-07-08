@@ -83,8 +83,8 @@ function writeToFile(fileName, data) {
 async function init() {
     try {
         const answers = await inquirer.prompt(questions);
-        console.log(answers.License);
-      
+     
+// Depending upon license chosen, different badge and license will appear in the generated README.        
       switch(answers.License){
         case "MIT":
           answers["Picture"] = licMIT;
@@ -103,9 +103,8 @@ async function init() {
           answers["Text"] = textGPL; 
           answers["Text2"] ="";
           answers["Text3"] ="";
-      }
+      };
        
-      
         const genMdFile = generateMarkdown(answers);
         writeToFile("README.md",genMdFile);
      
