@@ -4,6 +4,10 @@ const util = require("util");
 const genMd = require ("./utils/generateMarkdown.js");
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
+//[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+//[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+//[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
 // array of questions for user
 const questions = [{
       type: "input",
@@ -19,6 +23,12 @@ const questions = [{
     type: "editor",
     message: "Installation Instructions:",
     name: "Installation"
+  },
+  {
+    type: "list",
+    message: "License:",
+    name: "License",
+    choices: ["MIT","CC0-1.0","GNU GPLv3"]
   },
   {
       type: "input",
