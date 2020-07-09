@@ -1,3 +1,5 @@
+// Define Variables and include packages.
+
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
@@ -15,8 +17,6 @@ const textMIT3 = "THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY 
 const textCC = "The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.  Please see https://choosealicense.com/licenses/cc0-1.0/ for more information."
 
 const textGPL = "This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License.  Refer to https://choosealicense.com/licenses/lgpl-3.0/ for more information."
-
-
 
 // array of questions for user
 const questions = [
@@ -115,7 +115,3 @@ async function init() {
 
 // function call to initialize program
 init();
-
-
-
-

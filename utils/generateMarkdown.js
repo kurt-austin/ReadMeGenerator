@@ -17,7 +17,11 @@ function generateMarkdown(data) {
 
   [5.  Tests](##Tests)
 
-  [6.  Questions](##Questions)
+  [6.  Code Snippets](##Snippets)
+
+  [7.  Preview](##Preview)
+
+  [8.  Questions](##Questions)
 
   ## Installation
   ${data.Installation}
@@ -44,6 +48,26 @@ function generateMarkdown(data) {
   ## Tests
   ${data.Tests}
 
+
+  ## Snippets
+
+  Here are Code Snippets from the Javascript used.
+
+  ![Part 1 Javascript](./img/indexjs_part1.png)
+
+
+  ![Part 2 Javascript](./img/indexjs_part2.png)
+
+
+  ![Generate Markdown JS](./img/generateMarkdown.png)
+
+
+  ## Preview
+  
+  Here is what the sample generated README document would look like.
+
+  ![Preview](./img/Previewpng.png)
+  
 
   ## Questions
 
