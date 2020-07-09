@@ -1,7 +1,7 @@
-#  ![](https://img.shields.io/badge/License-MIT-blue.svg)
+# Kurt's Project ![](https://img.shields.io/badge/License-CC--0-blue.svg)
 
   ## Description 
-  
+  This is a sample auto-generated README Markdown file project.
 
   ## Table of Contents
   [1.  Installation](##Installation) 
@@ -21,29 +21,29 @@
   [8.  Questions](##Questions)
 
   ## Installation
-  
+  This needs node.js and inquirer packages.
 
 
   ## Usage
-  
+  Educational purposes only.
 
 
   ## License
-  MIT
+  CC0-1.0
 
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+  The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.  Please see https://choosealicense.com/licenses/cc0-1.0/ for more information.
 
-  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  
 
-  THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  
 
 
   ## Contributing
-  
+  No contribution guidelines at this time.
 
 
   ## Tests
-  
+  No test instructions necessary.
 
 
   ## Snippets
@@ -68,8 +68,8 @@
 
   ## Questions
 
-  [Github Repository](github.com/)
+  [Github Repository](github.com/kurt-austin)
 
-  [Contact]()
+  [Contact](kurt.austin@gmail.com)
 
 
